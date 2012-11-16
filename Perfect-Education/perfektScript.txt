@@ -1,0 +1,3 @@
+- praktische Beispiele
+- als offline Version verfügbar (z. B. pdf)
+- optionale Erklärung von Grundlagen oder Vertiefungen
