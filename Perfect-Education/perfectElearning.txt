@@ -4,3 +4,11 @@ Rückmeldung (Angelika Martin):
 - gute strukturierte Moodle-Seite
 - einheitliches "Ausgangswissen" schaffen (Skript, Chats)
 - Aufgaben zum Vertiefen vom theoretischen Wissen bieten
+
+/* Feedback von Frank Preiwuss */
+- eine Idee wäre die Übungsaufgaben anhand eines Projektes durchzuführen, dass für alle Übungsaufgaben genutzt werden kann zb.:
+- kleine Architketur mit UML
+- Umsetzung dieser mit CCD
+- Build des Programms mit Maven
+- Verwaltung des selben mit Git
+- etc.
