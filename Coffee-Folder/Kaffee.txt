@@ -5,3 +5,4 @@ Teller
 Löffel
 Schwarz
 Tieger
+heiß

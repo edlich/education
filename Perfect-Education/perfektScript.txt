@@ -1,5 +1,5 @@
 - praktische Beispiele
-- als offline Version verfügbar (z. B. pdf)
+- als offline Version verfügbar (z. B. pdf, oder auch gerne epub) 
 - optionale Erklärung von Grundlagen oder Vertiefungen
 - Video Tutorials von YouTube mit einbinden
 - Verwendete Sprache im Skript richtet sich stark an Entwickler und einige Wörter sind nicht auf Anhieb verständlich
