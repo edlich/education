@@ -1,2 +1,5 @@
 - klare Aufgabendefinition
 - Aufgabenumfang anpassen
+
+- Tipps wie die Abgaben auszusehen haben (Screenshots, Logfiles, etc.)
+
