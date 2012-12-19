@@ -5,7 +5,7 @@ A small repository for education purposes
 
 It mostly contains random content for Git and Github education.
 
-To all students: 
+To all `students`: 
 Let's create something unique here. A repository that contains hins 
 about the perfect education.
 Let's say one file for each:
