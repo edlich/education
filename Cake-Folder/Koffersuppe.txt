@@ -1,0 +1,4 @@
+This is a file that resists in a branch!
+
+Sorry but you will not find delishious things here...
+But you can investigate branches!
