@@ -1,8 +1,0 @@
-@Author: Marc Hirdes
-
-- Integrate an Instant Messanger in Moddle
-- E-Mail
-- Forum
-- Web conferences
-- Create regional groups
-- Present all relevant dates
