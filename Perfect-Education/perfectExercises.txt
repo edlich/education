@@ -3,3 +3,5 @@
 
 - Tipps wie die Abgaben auszusehen haben (Screenshots, Logfiles, etc.)
 
+- erklären, in welchem Umfang die Aufgabe bearbeitet werden soll. Was wird erwartet?
+
