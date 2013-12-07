@@ -1,2 +1,5 @@
+# Mac OS generated files
+*.DS_Store
 
-.DS_Store
+# vi swap files
+*.swp
