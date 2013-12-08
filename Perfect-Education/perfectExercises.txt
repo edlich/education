@@ -1,7 +1,8 @@
-- klare Aufgabendefinition
+﻿- klare Aufgabendefinition
 - Aufgabenumfang anpassen
 
 - Tipps wie die Abgaben auszusehen haben (Screenshots, Logfiles, etc.)
 
 - erklären, in welchem Umfang die Aufgabe bearbeitet werden soll. Was wird erwartet?
 
+- gutes und umfangreiches Feedback zur Aufgabe mit ggf. Verbesserungsvorschlägen / Musterlösungen
