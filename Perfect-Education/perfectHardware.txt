@@ -1,5 +1,5 @@
 Da für die verschiedenen Aufgaben unterschiedliche Programme installiert werden müssen,
-bietet es sich in einigen fällen (git, jenkins, Sonar, ant, Maven, Gradle) an, sich hierfür entweder eine Virtual Machine oder noch besser einen eigenen Server einzuroichten. 
+bietet es sich in einigen Fällen (git, Jenkins, Sonar, ant, Maven, Gradle) an, sich hierfür entweder eine Virtual Machine oder noch besser einen eigenen Server einzuroichten. 
 Als güstige Hardware bietet sich hier ein RaspberryPI an.
 
 Vorteile:
@@ -10,7 +10,7 @@ Nachteile:
 - Nur sinnvoll über Konsole einsetzbar. Bei Benutzung der GUI sehr langsam
 
 Idee:
-- Spezielen Image für den RaspberryPi mit vorinstallierten Programmen (git, jenkins, Sonar, ant, Maven, Gradle), welche dann nur noch für die eigenen Bedürfnisse angepasst werden müssen. 
+- Spezielen Image für den RaspberryPi mit vorinstallierten Programmen (git, Jenkins, Sonar, ant, Maven, Gradle), welche dann nur noch für die eigenen Bedürfnisse angepasst werden müssen. 
 - Ein fertige Image für eine Virtual Machine (z.B. VMWare) als entsprechende Alternative
 
-So ein bereitgestelltes Image würde für einigen Studenten den Einstieg sicherlich erleichtern.
+Ein so bereitgestelltes Image dürfte einigen Studenten den Einstieg sicherlich erleichtern.
