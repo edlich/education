@@ -1,4 +1,4 @@
-Guide for videochat behavior (taken from: http://blog.gcflearnfree.org/2012/02/27/5-video-chat-tips-everyone-should-know/)
+﻿Guide for videochat behavior (taken from: http://blog.gcflearnfree.org/2012/02/27/5-video-chat-tips-everyone-should-know/)
 
 *Set Up Your Lighting*
 Good lighting is key to looking your best on camera. You should have a source of light coming from behind your computer or webcam that will illuminate you. Avoid using the brightness of your computer monitor as it tends to turn you a shade of blue. You should also turn off any lights that are directly behind you, since they will make you appear too shadowed. To get the best light possible, try using a lamp with a swivel head so you can adjust it to the perfect angle.  If the light from the lamp is too harsh, try changing to a softer bulb or experimenting with a filter.
@@ -14,3 +14,6 @@ There is so much potential for embarrassment and trouble when others do not real
 
 *Make Sure You Hang Up*
 Again, embarrassing things happen when you do not hang up properly and your webcam remains on. Always, check the light on your webcam to make sure it is turned off when you finish your call. For extra protection you may want to cover your webcam when not in use. You can place a post-it over built-in webcams or cover external cameras with a cloth.
+
+*Check your Microphone*
+Make sure your microphone has a good sound quality and the perfect sound level. Check the microphone before you join the meeting.

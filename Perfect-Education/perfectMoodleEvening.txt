@@ -1,7 +1,8 @@
-- erst einmal einen heißen Tee und ein paar Kekse ;-)
+﻿- erst einmal einen heißen Tee und ein paar Kekse ;-)
 - "offline" Unterlagen zum Chat für Notizen (Loop-Ausdruck ist ok) 
 - zum Start ein bisschen Organisation, 
   - wann sind Aufgaben einzureichen und wie umfangreich sollen sie sein?
   - wie ist der allgemeine Wissensstand zum Thema (vielleicht auch außerhalb des Chats)?
 - im Chat praktische Beispiele zur LE
 - Literaturangaben zum Thema
+- Nicht nur den Stoff der LE "nochmal" vorlesen. Praktische Beispiele oder Übungen zum Thema machen.

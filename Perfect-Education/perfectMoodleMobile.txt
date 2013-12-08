@@ -1,3 +1,5 @@
-	- kein sich selbst auf die Hälfte des Bildschirm quetschendes Banner
+﻿	- kein sich selbst auf die Hälfte des Bildschirm quetschendes Banner
 	- keine Verhinderung von Scrollrichtungen
 	- keine falsch positionierten Warnhinweise
+	- responsive Design
+	- keine Flash Videos -> HTML5
