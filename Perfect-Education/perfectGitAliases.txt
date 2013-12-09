@@ -1,0 +1,3 @@
+alias gl='git log --pretty=oneline --decorate --abbrev-commit'
+
+alias gyesterday='!f() { git log --since=$1.days --author='<AUTHOR_NAME>' --pretty=format':%C(yellow)%h%Cblue%d%Creset %s %C(green)(%an, %ar)%Creset' --all; }; f'
