@@ -2,7 +2,8 @@ Kaffee
 Tasse
 Test
 Teller
-Löffel
+Lï¿½ffel
 Schwarz
 Tieger
-heiß
+heiï¿½
+Kaffeemaschine
