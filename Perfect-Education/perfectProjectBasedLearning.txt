@@ -1,0 +1,20 @@
+# Project based learning #
+
+Learning several modern techniques in a short period of time is a challenging task. 
+If students have only a few hours to learn new tools or technologies, 
+the learning results are quite small. Working in teams and distributing 
+the load on expert teams (topic owners) may increase the overall learning effect, 
+performance and motivation. Combined with agile project management methods, 
+the course may further get a methodical learning effect.
+
+* All students in the course form the project team.
+* Aim of the project: A small run capable tool
+* Small (fixed) teams of 2-3 students
+* Rotating roles: Teams are fixed, but their roles change every week (Dev -> QA -> 
+Doc)
+* One topic per week (Testing, Continuous Delivery, AOP, DVCS, ...)
+* One week time boxes
+* Weekly web-meetings as plannings/retrospectives
+* Team-based stand-ups
+* Team-based code-ownership - Learn how to work as a team, handle interfaces, merge 
+conflicts, ...
