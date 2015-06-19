@@ -24,7 +24,11 @@ Kaffeemaschine
 heiß & lecker!
 frisch gebrüht
 
+<<<<<<< HEAD
 Kalter Kaffee macht nicht schön sondern Magenschmerzen.
 Kaffee muss heiß sein.
 
 
+=======
+und mit milch
+>>>>>>> eb384ad96b17472f7fb806be57b233f4fe33dcb4
