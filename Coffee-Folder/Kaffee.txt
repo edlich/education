@@ -1,4 +1,4 @@
-Kaffee:
+﻿Kaffee:
 
 „anregendes Getränk“
 kurbelt den Stoffwechsel an
@@ -24,5 +24,7 @@ Kaffeemaschine
 heiß & lecker!
 frisch gebrüht
 
-kalter Kaffee
+Kalter Kaffee macht nicht schön sondern Magenschmerzen.
+Kaffee muss heiß sein.
+
 
