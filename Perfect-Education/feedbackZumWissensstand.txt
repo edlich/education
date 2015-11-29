@@ -1,0 +1,26 @@
+Thema
+Auswertung der Zeitaufwände der Studierenden in Bezug auf deren Kenntnisstand zur differenzierten Angabe der voraussichtlichen Lese- und Bearbeitungszeit im Modul
+
+[ könnte glatt eine Thesis werden ;-) ]
+
+-------------------------------
+| Zielsetzung
+-------------------------------
+Bei den Lerneinheiten werden zu Beginn die voraussichtlich benötigten Zeiten für das Bearbeiten der LE sowie für die Ausarbeitung der Einsendeaufgabe angegeben. Natürlich ist der individuelle Zeitaufwand abhängig bsw. vom Vorwissen, dem Interesse und der störungsfreien Bearbeitung (allgemeine Arbeitsorganisation). Nur der erste Aspekt soll hier betrachtet werden. Ziel ist es, für eine bessere Grobplanung eines Studenten statt nur einer Zeitangabe einen Bereich "durchschnittlich von ... bis ..." anzugeben, damit dieser je nach seinen Erfahrungen den individuellen Aufwand besser einschätzen kann.
+
+-------------------------------
+| Teil A: Allgemeinen Wissensstand zu Beginn
+-------------------------------
+* Umfrage im Moodle
+* Kurze Vorstellungsrunde im Forum
+* Live-Umfrage im 1. Chat
+
+-------------------------------
+| Teil B: Individuelle Erfahrungen je Lerneinheit
+-------------------------------
+* Vorkenntnisse zum aktuellen Themengebiet erfragen
+* Zeitaufwand zur Bearbeitung der Lerneinheit erfragen
+* Zeitaufwand zur Ausarbeitung der Einsendeaufgabe erfragen
+* gesammelte Daten mit geeigneten statistischen Methoden auswerten
+
+// more to be done... :-)
