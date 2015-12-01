@@ -1,0 +1,11 @@
+Tipp 1: Kalender-Integration
+Importiere den Kalender von Moodle in deinen privaten. Die offiziell eingetragenen Termine hast du nun ständig griffbereit.
+
+Tipp 2: Sonderregelungen beachten
+Für Dozenten, welche diese Funktion nicht nutzen, solltest du Dir einen Überblick anlegen wo die (aktuellen) Daten der Vorlesungstermine zu finden sind.
+
+Tipp 3: Aufgaben beachten
+Sollten für Aufgaben gesonderte Regeln gelten, müssen dafür auch Tipp 1 und 2 beachtet werden.
+
+Tipp 4: Je früher, desto gut
+Erledige Aufgaben so früh du es kannst, so vermeidest du Stress kurz vor Abgabe bei technischen und organisatorischen Herausforderungen

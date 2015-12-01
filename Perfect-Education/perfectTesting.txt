@@ -1,0 +1,3 @@
+- Vor der Nutzung neuer Funktionen einer Webapplikation wie Adobe Connect sollte diese umfangreich getestet werden
+- Auch bereits bekannte Funktionen sollten unter neuen Systemumgebungen getestet werden
+- Jeder sollte seine eigene Technik vor z.B. Videochats prüfen (Microfon, Headset)

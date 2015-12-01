@@ -1,8 +1,34 @@
-Kaffee
-Tasse
-Test
-Teller
-L�ffel
-Schwarz
-Tieger
-hei�
+﻿Kaffee:
+
+„anregendes Getränk“
+kurbelt den Stoffwechsel an
+ursprünglich auch „Wein“
+mit Anlehnung an die Ursprungsregion Kaffa
+
+
+ist ein schwarzes,
+psychotropes,
+koffeinhaltiges Heißgetränk
+
+
+hergestellt aus:
+gerösteten und gemahlenen Kaffeebohnen
+den Samen aus den Früchten der Kaffeepflanze
+
+
+am besten verzehren mit:
+Tasse (mit eigenem Namen)
+Untertasse
+Löffel (mit eigenem Logo)
+Kaffeemaschine
+heiß & lecker!
+frisch gebrüht
+
+<<<<<<< HEAD
+Kalter Kaffee macht nicht schön sondern Magenschmerzen.
+Kaffee muss heiß sein.
+
+
+=======
+und mit milch
+>>>>>>> eb384ad96b17472f7fb806be57b233f4fe33dcb4
