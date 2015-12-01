@@ -6,3 +6,4 @@
   - zu guter letzt Notizzettel anfertigen analog (Collegeblock) oder digital (OneNote)
 - vorm Start der Konferenz kurz das organisatorische abklären
 - danach eine unterhaltsame Vorlesung von Herrn Edlich über Themen wie z.B. Funktionale Programmierung 
+- Anschließend den zuvor behandelten Stoff wirken lassen. :)
