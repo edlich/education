@@ -1,0 +1,13 @@
+Eine perfekte Dokumentation einer Methode (aus meiner Sicht):
+Es fällt immer wieder auf, dass zwar Methoden als auch Parameter stimmig benamt sind, aber trotzdem nicht eindeutig gesagt werden kann,
+welches Format der Parameter haben soll. Folgendes Beispiel zeigt, wie ein "schöner" Kommentar auszusehen hat (aus meiner Sicht):
+
+/**
+* Diese Methode tut etwas.
+*
+* @Param year Das Jahr im Format YYYY
+* @Param modelGroupShort Eine Kurzform der Modellgruppe im Format [A-Z0-9][A-Z0-9]
+**/
+public void doSomething(String year, String modelGroupShort) { }
+
+Vor allem bei der Arbeit auf Schnittstellen, die nicht veränderbar sind, helfen diese Kommentare Exceptions und Fehlverhalten zu vermeiden.
