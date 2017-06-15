@@ -7,4 +7,4 @@ The name "Bengal cat" was derived from the taxonomic name of the Asian leopard c
 
 Bengal cats are generally a bright orange to light brown colour, although pale or off-white "snow" Bengals also exist, and are popular among owners.
 
-(Source: Wikipedia, https://en.wikipedia.org/wiki/Bengal_cat)
+Source: Wikipedia, https://en.wikipedia.org/wiki/Bengal_cat
