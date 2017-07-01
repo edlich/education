@@ -4,3 +4,4 @@ Jonas Stumm war hier 27.11.2016 15:21
 Michael Gruending war hier 04.12.2015
 Daniel John war hier 07.01.2017
 Matthias Hertel war hier > echo $(date)
+Kevin Kober war hier 01.07.2017
