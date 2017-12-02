@@ -1,0 +1,12 @@
+Spannde CLI Projektmanagement Software	http://taskjuggler.org
+
+1.  Ansprüche der Stakeholder
+2.  Anforderungen und Projektziele
+3.  Umfang
+4.  Leistungen und Termine
+5.  Aufgabenverwaltung
+6.  Risikobewertung
+7.  Rollen und Verantwortung
+8.  Ressourcenplanung
+9.  Qualitätssicherung
+10. Kommunikation
