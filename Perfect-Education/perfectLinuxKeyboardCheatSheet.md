@@ -5,7 +5,7 @@
 	- `→` Folgepfeil
 	- `·` schicker Aufzählungspunkt in der Mitte
 	- `¦Þ` fieses Zungenrausstrecksmily
-	- `¢` Cent-Zeichen\ (Währung)
+	- `¢` Cent-Zeichen (Währung)
 
 # Lösung
 1. Eine Übersicht erstellen und dort nachsehen, wenn man ein Zeichen benötigt.
