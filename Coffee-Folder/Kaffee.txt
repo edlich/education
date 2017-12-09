@@ -30,5 +30,5 @@ Kaffee muss heiß sein.
 
 
 =======
-und mit milch
+und mit Milch
 >>>>>>> eb384ad96b17472f7fb806be57b233f4fe33dcb4
