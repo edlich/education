@@ -6,3 +6,4 @@ Daniel John war hier 07.01.2017
 Matthias Hertel war hier > echo $(date)
 Kevin Kober war hier 01.07.2017
 Julio Vita war hier 05.07.2017
+Andreas Willems was here Do 23 Nov 2017 20:47:31 CET
