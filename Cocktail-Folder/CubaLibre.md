@@ -1,8 +1,10 @@
 # **Cuba Libre**
 
-#### Der Longdrink aus Kuba schmeckt würzig und nach Freiheit. Aus wenigen Zutaten wie Cola, Limetten und Rum zaubern Sie einen leckeren Cocktail. Stilecht serviert mit Strohhalm in 0,3 bis 0,5 Liter-Gläsern.
+#### Der Longdrink aus Kuba schmeckt würzig und nach Freiheit. Aus wenigen Zutaten wie Cola, Limetten und Rum zaubern Sie einen leckeren Cocktail.
+####  
 
-![Bild](http://www.bergamopost.it/wp-content/uploads/2014/10/cuba-libre-300x225.jpg)
+
+![Bild](http://www.bd-club.de/sites/default/files/styles/colorbox_big/public/pictures/cocktail/05_cocktail_cuba_libre_0.JPG?itok=lQfSeLqb)  
 
 ### Zutaten
 
