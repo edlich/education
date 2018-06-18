@@ -30,4 +30,6 @@
 
 3. Mit der Limettenscheibe garnieren.
 
-###### Viva la Revolution! ;)
+###### Viva la Revolution! ;)  
+##  
+*Bildquelle: http://www.bd-club.de/cocktails/cuba-libre-8-anos*
