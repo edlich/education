@@ -13,3 +13,4 @@
 1. Heidenpeters
 1. Berliner Berg
 1. Stone Brewing
+1. Zunft Kölsch
