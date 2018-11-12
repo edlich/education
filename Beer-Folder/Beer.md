@@ -14,3 +14,4 @@
 1. Berliner Berg
 1. Stone Brewing
 1. Zunft Kölsch
+1. [Päffgen Kölsch](http://www.paeffgen-koelsch.de)
