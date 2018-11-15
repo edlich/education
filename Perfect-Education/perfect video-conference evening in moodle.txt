@@ -1,9 +1,0 @@
--Vorbereitung:
-  - Bevor die Webkonferenz beginnt, sollte erstmal Essen bestellt werden am besten Pizza 
-    oder z.B. was asiatisches wie Sushi sollte es etwas gesünder sein.
-  - anschließend ein oder mehrere kalte Erfrischungsgetränke aus den Kühlschrank holen,
-    ein kaltes Bier (natürlich alkoholfrei :)), eine Cola oder Wasser
-  - zu guter letzt Notizzettel anfertigen analog (Collegeblock) oder digital (OneNote)
-- vorm Start der Konferenz kurz das organisatorische abklären
-- danach eine unterhaltsame Vorlesung von Herrn Edlich über Themen wie z.B. Funktionale Programmierung 
-- Anschließend den zuvor behandelten Stoff wirken lassen. :)
