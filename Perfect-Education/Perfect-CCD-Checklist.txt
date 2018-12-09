@@ -1,0 +1,34 @@
+Clean Code Development - Checkliste
+
+Coding Guidelines
+1. Wir halten definierte Coding Styles ein
+2. Wir deklarieren lokale Variablen nahe der Verwendung
+3. Wir definieren Randbedingungen für Schleifen an einer gut sichtbaren Stelle
+4. Wir beachten die Pfadfinder-Regel und führen Refactorings durch wenn nötig
+5. Wir führen CodeReviews durch bevor Code integriert / deployed wird
+
+Verständlichkeit
+1. Wir verwenden sprechende / erklärende Namen für Variablen und Methoden
+2. Wir achten darauf, dass Klassen und Methoden das tun, was ihr Name nahe legt
+3. Wir verwenden sprechende / erklärende Konstanten statt „Magic Numbers“
+4. Wir kommentieren Klassen, öffentliche Methoden und ihre Parameter über Doc-Blocks
+5. Wir geben Verständlichkeit Vorrang vor Optimierungen
+
+Einfachheit / geringe Komplexität
+1. Wir implementieren Methoden für genau eine zu erfüllende Aufgabe
+2. Wir trennen zwischen aufrufenden und ausführenden Methoden
+3. Wir kapseln komplexe logische Prüfungen in sprechende Methoden
+4. Wir kapseln Code in Methoden oder Objekte anstatt ihn zu kopieren
+
+Lesbarkeit / Übersichtlichkeit
+1. Wir entfernen ungenutzte / überflüssige Code-Stellen
+2. Wir entfernen überflüssige Kommentare
+3. Wir versuchen Methoden auf maximal 20 Zeilen zu begrenzen
+4. Wir entwickeln keine Funktionen, die wir noch nicht benötigen
+
+Stabilität / Sicherheit
+1. Wir prüfen Variablenwerte explizit im Funktionscode
+2. Wir werfen spezifische Exceptions bei Fehlerfällen
+3. Wir entwickeln UnitTests für unseren Code (möglichst vor der Implementierung)
+4. Wir verwenden Interfaces um konkrete Abhängigkeiten zu reduzieren
+5. Wir machen nur die wirklich relevanten Dinge in Interfaces öffentlich

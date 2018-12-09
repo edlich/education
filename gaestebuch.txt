@@ -1,0 +1,14 @@
+@Author Eric B.
+Eric war hier 13.06.2016 21:38
+Jonas Stumm war hier 27.11.2016 15:21
+Michael Gruending war hier 04.12.2015
+Daniel John war hier 07.01.2017
+Matthias Hertel war hier > echo $(date)
+Kevin Kober war hier 01.07.2017
+Julio Vita war hier 05.07.2017
+Patrick Lieske war hier 07.12.2017
+Andreas Willems was here Do 23 Nov 2017 20:47:31 CET
+Kevin was here 22.12.2017
+Toni was here 2018-10-04
+Aykut was here 2018-11-03
+Anna was here 2018-11-12

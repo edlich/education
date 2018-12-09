@@ -1,0 +1,17 @@
+Why drink it?
+
+Mockito is a mocking framework that tastes really good. It lets you write beautiful tests with a clean & simple API. Mockito doesn’t give you hangover because the tests are very readable and they produce clean verification errors. Read more about features & motivations.
+
+Massive StackOverflow community voted Mockito the best mocking framework for java. Even though StackOverflow shuns questions that likely raise emotional debates the fact is Mockito has the most votes. You can add your vote, too!
+
+Top 10 Java library across all libraries, not only the testing tools. In late 2013 there was an analysis made of 30.000 GitHub projects. Although Mockito reached number 9 in the main report, mockito-core and mockito-all are the same tool and therefore the factual position of Mockito is number 4, surpassing famous tools like Guava or Spring. Treat this study as an indicator of a big impact that Mockito makes every day on unit tests written in Java.
+
+Dan North, the originator of Behavior-Driven Development wrote this back in 2008:
+
+“We decided during the main conference that we should use JUnit 4 and Mockito because we think they are the future of TDD and mocking in Java”
+
+Given the current popularity of Mockito, Dan was spot on with his prediction.
+
+Use your own judgement in choosing a testing framework. The Mockito team always respects your choice. Keep writing great tests every day!
+
+http://site.mockito.org
