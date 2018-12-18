@@ -1,0 +1,4 @@
+Ideal wäre hier, falls all die verschiedenen Abgabetermine einheitlich eingepflegt werden würden, so dass man mit einem Blick auf
+den Kalender sämtliche Zeitfristen im Auge behalten kann.
+
+Ansonsten sind die wesentlichen Funktionen bereits gut umgesetzt.

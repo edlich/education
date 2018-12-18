@@ -1,0 +1,5 @@
+Dokumentationen sollten immer über einen regelmäßigen Aufbau verfügen.
+
+Dabei sollte mittels eines Glossars das Fachvokabular eineindeutig geklärt sein.
+
+Zudem ist auf inhaltliche Kohärenz sowie Konsistenz zu achten.
