@@ -1,2 +1,3 @@
-Cappuccino ist ein italienisches Kaffeegetränk, welches aus einem Espresso und heißem Milchschaum zubereitet wird.
+Cappuccino ist ein italienisches Kaffeegetränk, das aus einem Espresso und heißem Milchschaum zubereitet wird.
+Quelle: https://de.wikipedia.org/wiki/Cappuccino
 
