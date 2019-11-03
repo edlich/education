@@ -1,5 +1,9 @@
 # Mac OS generated files
 *.DS_Store
+.idea/
 
 # vi swap files
 *.swp
+
+# IntelliJ IDEA files
+*.iml
