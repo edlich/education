@@ -1,0 +1,5 @@
+git - Der einfache Einstieg
+eine einfache Anleitung, um git zu lernen. Kein Schnick-Schnack
+von Roger Dudler
+
+https://rogerdudler.github.io/git-guide/index.de.html
