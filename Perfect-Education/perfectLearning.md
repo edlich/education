@@ -1,0 +1,18 @@
+# Perfect learning
+
+## How to approach what you learn
+When you approach a bigger topic with lots of details and difficult concepts, you should start with looking at the big pictures. What are the main concepts? How do they relate to each other? If you're working with a text book, read the headlines first. 
+
+Then work on one specific part of what you have to learn. From time to time, you can take a look ahead and see if you can find what you're working on in different chapters of your text book. When you work on a specific concept or idea, you will break it down into so called _chunks_. A chunk is a piece of information which you can process during your thinking processes. Usually your brain can handle 5 to 7 chunks. After some time, you'll be able to group chunks together, so they build bigger chunks, and you can then associate these chunks with other groups of chunks you already learned. This is a bottom up process. Together with the "Big Picture" learning, which is a top-down process, you'll learn about the deeper meaning and the contexts of an idea. 
+
+Sometimes you might think, that something is too hard for you and you avoid to start working on the topic. The reasons for this behavior can be very diverse, but there are some tools to overcome this procrastination and start learning. 
+A good working approach is to put _process over results_. This means, you should not worry about whether you can solve a problem or understand a difficult topic. That would be a focus on the _result_. Instead, focus on your learning _process_. For instance, this can be as simple as grabbing a timer, set it to 25 minutes and work on your project. Don't do anything else during this time. Just start to work on what you want to learn. When the time is up, you can take a little break. As you now exposed yourself to the problem, you might be more likely to proceed with working on it.
+
+## Recall what you learned
+Learning can be an exhausting process, this is why you can't learn everything in one day. At some point you will be tired. Insead, you should try to practice learning over a long period of time and get enough sleep between your learning sessions. 
+To plan your learning sessions, you should use a calendar and treat your learning like a job. This means, create a plan and execute the plan. During execution you might adjust your plan accordingly to your current progress. 
+
+To maximize your learning success, you should start to train your memory and practice recalling. A good way to do this, is to read something and then start to write down a summary or an explanation in your own words. Write in a way, that someone who doesn't know the topic can understand it. If you find gaps in your knowledge, go back to your literature and read again. Repeat this process and work on your written document until you feel very confident in your knowledge. This approach is known as the [Feynman Technique](https://collegeinfogeek.com/feynman-technique/).
+
+## Deliberate practice
+Deliberate practice helps you to efficiently develop skills. There are some conditions for this to work. First you have to break down a complex skill into smaller, more managable skills. You also need feedback which immediately tells you whether you did fine or not. You also have to be able to identify your weaknesses and develop strategies to overcome these weaknesses and integrate your learning into the overall process. If you want to learn how to play guitar, you'll achieve more in shorter time if you have a teacher who shows you how to do things, who gives you feedback and most importantly, takes care about your learning process and protects you from repeating mindlessly the same excercises. 
