@@ -1,8 +1,9 @@
-
 # Pils Rezept
 
-![Pils](https://www.bierselect.de/biermagazin/wp-content/uploads/2016/06/Interessantes-ueber-das-Pils-1300x722.jpg "Pils")
-[Bildquelle](https://www.bierselect.de/biermagazin/wp-content/uploads/2016/06/Interessantes-ueber-das-Pils-1300x722.jpg "Quelle")
+![Happy Hour Drinking GIF](https://media3.giphy.com/media/e6TR9n00dL3JS/giphy.gif?cid=790b76118a57c88c0330f2614efaa435174f039ef4e349a3&rid=giphy.gif "Happy Hour Drinking GIF")
+
+![Happy Hour Drinking GIF By Bayerischer Rundfunk](https://media2.giphy.com/media/3o6Ztd5vx7mxQ4AkQU/giphy.gif?cid=790b761197e3d3071bf666783a7f6276fd50d5804095a59b&rid=giphy.gif "Happy Hour Drinking GIF By Bayerischer Rundfunk")
+
 ## Allgemeines
 
 * Gärungsart:Untergärig
@@ -44,3 +45,6 @@ Minute 65: Aromagabe 50g Spalter Select - 10 min
 Die Zielmenge für das Bier sind ca 50 Liter
 
 [Quelle](https://lernebrauen.com/rezept/pils/ "Quelle")
+
+![Pils](https://www.bierselect.de/biermagazin/wp-content/uploads/2016/06/Interessantes-ueber-das-Pils-1300x722.jpg "Pils")
+[Bildquelle](https://www.bierselect.de/biermagazin/wp-content/uploads/2016/06/Interessantes-ueber-das-Pils-1300x722.jpg "Quelle")
