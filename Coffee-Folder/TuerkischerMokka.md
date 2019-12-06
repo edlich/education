@@ -14,4 +14,6 @@
 
 Quelle: https://www.kaffeezentrale.de/tuerkischer-mokka
 
-Und das ganze auf <a href="http://www.youtube.com/watch?feature=player_embedded&v=3at2Rxkh4v8" target="_blank"><img src="http://img.youtube.com/vi/3at2Rxkh4v8/0.jpg" alt="Türkischer Mokka Kaffee machen - Die Zubereitung - Turkish Mocca kahve coffee - How to brew/ serve?" width="240" height="180" border="10" />YouTube</a>
+Und das ganze auf YouTube:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=3at2Rxkh4v8" target="_blank"><img src="http://img.youtube.com/vi/3at2Rxkh4v8/0.jpg" alt="Türkischer Mokka Kaffee machen - Die Zubereitung - Turkish Mocca kahve coffee - How to brew/ serve?" width="240" height="180" border="10" /></a>
