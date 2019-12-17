@@ -1,3 +1,6 @@
-Git was created by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development.[12] Its current maintainer since 2005 is Junio Hamano.
+Git was created by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development.[1] Its current maintainer since 2005 is Junio Hamano.
 
-Quelle: Wikipedia
+Explaining the unusual name choice for his project, Torvalds said: "I’m an egotistical bastard, and I name all my projects after myself. First ‘Linux’, now ‘Git’." [2]
+
+[1] Wikipedia
+[2] https://git.wiki.kernel.org/index.php/GitFaq#Why_the_.27Git.27_name.3F
