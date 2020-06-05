@@ -1,0 +1,17 @@
+Liste von Cheat Sheets (eine kleine Auswahl, zuletzt besucht 30.11.16)
+
+- git: 	
+	http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.pdf
+	https://www.git-tower.com/blog/git-cheat-sheet/
+	https://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/
+
+- uml: 	
+	http://www.digilife.be/quickreferences/qrc/uml%20quick%20reference%20card.pdf
+	http://www.loufranco.com/wp-content/uploads/2012/11/cheatsheet.pdf
+	http://www.code-meets-design.de/wp-content/uploads/2013/07/uml-classdiagram-cheat-sheet.pdf
+
+- clean code:
+	http://www.planetgeek.ch/wp-content/uploads/2013/06/Clean-Code-V2.2.pdf
+	http://www.nullpointer.at/2015/06/10/clean-code-cheat-sheet/
+	https://codingwithspike.wordpress.com/2012/09/17/clean-code-cheat-sheet/
+	

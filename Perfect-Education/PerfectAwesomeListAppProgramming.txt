@@ -1,0 +1,23 @@
+My favourite list of awesome links for programming iOS/Android:
+
+Try out what is awesome to create cool apps :)
+
+
+iOS:
+https://github.com/dkhamsing/open-source-ios-apps
+https://github.com/vsouza/awesome-ios
+https://github.com/cjwirth/awesome-ios-ui
+https://github.com/likedan/Awesome-CoreML-Models
+https://github.com/ashishb/osx-and-ios-security-awesome
+https://github.com/iamdaiyuan/ios_top_1000
+
+
+Android:
+https://github.com/JStumpp/awesome-android
+https://github.com/wasabeef/awesome-android-libraries
+https://github.com/wasabeef/awesome-android-ui
+https://github.com/ashishb/android-security-awesome
+
+
+
+

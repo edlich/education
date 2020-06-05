@@ -1,0 +1,5 @@
+Einsendeaufgabe DVCS
+
+Perfektes Feedback:
+- Schnelles Feedback nachdem die Aufgaben bearbeitet wurden
+- Kurzes inhaltliches Feedback, sodass man weiß, was man besser machen könnte
