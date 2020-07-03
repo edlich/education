@@ -1,4 +1,0 @@
-import redis
-
-set 
-get
