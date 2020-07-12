@@ -16,3 +16,4 @@
 1. Zunft Kölsch
 1. [Päffgen Kölsch](http://www.paeffgen-koelsch.de)
 1. [Lösch-Zwerg](http://www.loesch-zwerg.de)
+1. [Dom Kösch](https://domkoelsch.de)
