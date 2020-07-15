@@ -9,7 +9,7 @@ Quick start
 
 `git pull --rebase`
 
-`git add .`
+`git add .`- point means, to prepare all files for commit
 
 `git commit -m "commit message"`
 
