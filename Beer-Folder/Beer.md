@@ -1,7 +1,7 @@
 # Perfect Beer
 
-1. [Kloster Scheyern](https://www.klosterbrauerei-scheyern.de/unsere-biere.html)
 1. Augustiner Hell
+1. [Kloster Scheyern](https://www.klosterbrauerei-scheyern.de/unsere-biere.html)
 1. [Duckstein](https://www.duckstein.de/)
 1. Brlo Brwhouse
 1. Vagabund
