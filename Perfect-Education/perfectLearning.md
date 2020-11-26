@@ -18,3 +18,10 @@ Another useful technique is Spaced Repetition Learning. Here, one's own knowledg
 
 ## Deliberate practice
 Deliberate practice helps you to efficiently develop skills. There are some conditions for this to work. First you have to break down a complex skill into smaller, more managable skills. You also need feedback which immediately tells you whether you did fine or not. You also have to be able to identify your weaknesses and develop strategies to overcome these weaknesses and integrate your learning into the overall process. If you want to learn how to play guitar, you'll achieve more in shorter time if you have a teacher who shows you how to do things, who gives you feedback and most importantly, takes care about your learning process and protects you from repeating mindlessly the same excercises. 
+
+## Strategies to search for supporting literature
+### Reverse search
+First, there is a primary source that is important for one's own learning or work. This can be an essay, a contribution, a textbook, a contribution from an encyclopedia or similar. From the bibliography of such a document there are other sources that can be used. This way, large amounts of sources can be gathered in a short time.  
+
+### Forward search
+Similar to the procedure described above, you also start with a central document. Now, however, not the sources already used by the author of the document are examined, instead literature used or cited by the central document is searched for. A possibility to search for used citation sources is offered by many online catalogs of libraries or Google Scholar. 
