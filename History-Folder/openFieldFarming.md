@@ -77,4 +77,4 @@ have got to have the lord's consent
 *Eric Idle:* 
 That was a talk on the open field farming system by Professor Angus Jones. Some of the main points covered in this talk are now available on a long playing record **'The Ronettes Sing Medieval Agrarian History'**.
 
-Source: [MontyPython.net](http://www.montypython.net/scripts/background.php)
+*Source:* [MontyPython.net](http://www.montypython.net/scripts/background.php)

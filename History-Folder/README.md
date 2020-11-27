@@ -4,7 +4,7 @@ The rich field of historical events is astonishing and devastating, however we c
 
 ## Content
 
-* Tech history
+* [Tech history](techHistory.md)
     * [Git](gitHistory.md)
 * [Open Field Farming](openFieldFarming.md)
 * [Psycho-History](psychoHistory.md)
