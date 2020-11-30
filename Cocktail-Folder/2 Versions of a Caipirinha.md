@@ -23,7 +23,7 @@ Dabei stellte ich fest, dass es zwei Rezepte gibt, die dem Caipirinha, wie man i
 7. Mit Stroßhalm genießen & von unten nach oben ziehen!
 
 # Caipirinha No.2
-## Für diejenigen, die Tequila lieben, aber auch Caipi nicht verzichten wollen
+## Für diejenigen, die Tequila lieben, aber auf Caipi nicht verzichten wollen
 
 ## Zutaten
 - 1/2 Limette
