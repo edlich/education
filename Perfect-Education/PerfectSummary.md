@@ -1,4 +1,4 @@
-Source - https://www.math.uni-hamburg.de/home/loewe/2005-06-I/summaries.html
+Source of the text - https://www.math.uni-hamburg.de/home/loewe/2005-06-I/summaries.html
 
 **Writing summaries for Guest Lectures.**
 
