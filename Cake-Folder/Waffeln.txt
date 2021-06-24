@@ -7,3 +7,5 @@
 1 Tasse 	Milch, lauwarme
 1 Tasse 	Wasser
 650 g 	Hagelzucker 
+
+// das werden ne Menge Waffeln
