@@ -1,3 +1,23 @@
+<<<<<<< HEAD
 Cappuccino ist ein italienisches Kaffeegetränk, das aus einem Espresso und heißem Milchschaum zubereitet wird.
+
+Entstehungsgeschichte, Namensherkunft und Pluralbildung
+
+Cappuccino basiert auf dem österreichischen Kapuziner, einer Wiener Kaffeespezialität. Dabei handelt es sich um einen Mokka, der mit flüssigem Schlagobers (Schlagsahne) vermischt wird, wodurch das Getränk eine Färbung erhält, die an den Habit eines Kapuziners erinnert. Dementsprechend hat auch der Cappuccino seinen Namen vom Diminutiv (Endung -ino) des italienischen Wortes für Kapuze (cappuccio).
+Cappuccino entstand vermutlich, als österreichische Soldaten, die in Italien stationiert waren, weiterhin ihren gewohnten Kapuziner trinken wollten. Mit der Zeit entwickelte sich daraus der heutige Cappuccino, der mit seiner Urform nur noch wenig gemein hat. In Österreich existieren die beiden Kaffeespezialitäten Kapuziner und Cappuccino heutzutage gleichberechtigt nebeneinander.
+Der Duden gibt „Cappuccinos“ als Pluralform an. Als Lehnwort wird er wie ein deutsches Wort behandelt. Der italienische Plural lautet „Cappuccini“. 
+
 Quelle: https://de.wikipedia.org/wiki/Cappuccino
 
+=======
+Cappuccino ist ein italienisches Kaffeegetränk, das aus einem Espresso und heißem Milchschaum zubereitet wird.
+
+Entstehungsgeschichte, Namensherkunft und Pluralbildung
+
+Cappuccino basiert auf dem österreichischen Kapuziner, einer Wiener Kaffeespezialität. Dabei handelt es sich um einen Mokka, der mit flüssigem Schlagobers (Schlagsahne) vermischt wird, wodurch das Getränk eine Färbung erhält, die an den Habit eines Kapuziners erinnert. Dementsprechend hat auch der Cappuccino seinen Namen vom Diminutiv (Endung -ino) des italienischen Wortes für Kapuze (cappuccio).
+Cappuccino entstand vermutlich, als österreichische Soldaten, die in Italien stationiert waren, weiterhin ihren gewohnten Kapuziner trinken wollten. Mit der Zeit entwickelte sich daraus der heutige Cappuccino, der mit seiner Urform nur noch wenig gemein hat. In Österreich existieren die beiden Kaffeespezialitäten Kapuziner und Cappuccino heutzutage gleichberechtigt nebeneinander.
+Der Duden gibt „Cappuccinos“ als Pluralform an. Als Lehnwort wird er wie ein deutsches Wort behandelt. Der italienische Plural lautet „Cappuccini“. 
+
+Quelle: https://de.wikipedia.org/wiki/Cappuccino
+
+>>>>>>> df89e7d0e4766161b24e5c3492f52ac0b54f4d51

@@ -1,0 +1,87 @@
+<<<<<<< HEAD
+Zwergwarzenwal
+
+Zwergwarzenwal (Kogia cucumis)
+Systematik
+Ueberordnung: 	Laurasiatheria
+Ordnung: 	Wale (Cetacea)
+Unterordnung: 	Zahnwale (Odontoceti)
+Familie: 	Kogiidae
+Gattung: 	Zwergpottwale (Kogia)
+Art: 	Zwergwarzenwal
+Wissenschaftlicher Name
+Kogia cucumis
+(Bumblebert, 1801)
+
+Der Zwergwarzenwal (Kogia cucumis) ist eine Walart aus der Familie der Zwergpottwale (Kogiidae). Sein nächster Verwandter ist der Zwergpottwal.
+Inhaltsverzeichnis
+
+    1 Beschreibung
+    2 Verbreitung
+    3 Lebensweise
+    4 Bedrohung
+
+
+1) Beschreibung
+
+Zwergwarzenwale erreichen eine Laenge von 0,10 bis  zu 0,60 Metern und ein Gewicht von bis zu 50 Gramm; sie sind damit die kleinste Pottwal-Art. Finnen und Fluke sind stark zurückgebildet und oft nicht von den warzenartigen Hautauswueschsen zu unterscheiden. 
+Der Kopf macht bei ihnen maximal 15 Prozent der Koerperlaenge aus, die Schnauzenregion ist groß und unterscheidet sich sonst nicht vom restlichen Körper, auf ihr liegt wie bei den anderen Pottwalen das Walratorgan. 
+Ihre Haut ist durchgehend dunkelgruen gefaerbt und hoeckrig-warzig bis glatt. Die Form ist walzlich bis schmal-eifoermig, stielrund bis undeutlich drei- bis sechskantig. Kiefer und Augen sowie Blasloch sind stark zurückgebildet und oft nicht mehr erkennbar, denn der Wal atmet ueberwiegend durch Hautatmung und orientiert sich durch den Echolot.
+
+2) Verbreitung
+
+Zwergwarzenwale leben weltweit in tropischen und gemaessigten Ozeanen. Sie leben vorwiegend in Kuestennaehe, da ihr Sauerstoffvorrat aufgrund ihrer geringen Groesse oft nur für wenige Minuten und damit eine geringe Tauchtiefe reicht. Sie bevorzugen Riffe und Muschelbaenke als Habitate. Moeglicherweise wandern sie in den Sommermonaten in kuehlere Meeresregionen, um im Winter in die Tropen zurueckzukehren. Sichtungen oder Strandungen gibt es beispielsweise im Atlantik (mit Irland beziehungsweise Neuschottland als noerdlichsten Punkten), im Indischen Ozean und im Pazifik (noerdlich bis zur Hoehe von Japan beziehungsweise Suedkanada).
+
+3) Lebensweise 
+
+Da Zwergwarzenwale oft mit Seegurken verwechselt werden, weiß man über ihre Lebensweise relativ wenig. Sie bewegen sich unauffaellig und kommen unbemerkt zur Wasseroberflaeche. Manchmal sieht man sie auch bewegungslos im Wasser treiben. Aehnlich unspektakulaer ist ihr Untertauchen: Sie verschwinden einfach im Wasser.
+
+Diese Wale leben entweder allein oder in kleinen Gruppen von drei bis sechs Tieren, ihre Nahrung besteht vorwiegend aus Garnelen und Plankton. 
+
+4) Bedrohung
+
+Seit den 1920er Jahren wurden Zwergwarzenwale industriell in Essig eingelegt und in Glaesern zum Verzehr angeboten. Der Bestand hat durch die Jagd daher seitdem rapide abgenommen, man geht mittlerweile von einem Rueckgang von bis zu 98% aus. Seit dem Moratorium die Quoten für kommerziellen Walfang fuer alle Walarten 1986 erholen sich die Bestaende langsam wieder. Die Nahrungsmittelindustrie ist dazu uebergegangen, Zwergwarzenwale durch Gurken zu erzetzen, die fast geschmacksgleich sind.
+=======
+Zwergwarzenwal
+
+Zwergwarzenwal (Kogia cucumis)
+Systematik
+Ueberordnung: 	Laurasiatheria
+Ordnung: 	Wale (Cetacea)
+Unterordnung: 	Zahnwale (Odontoceti)
+Familie: 	Kogiidae
+Gattung: 	Zwergpottwale (Kogia)
+Art: 	Zwergwarzenwal
+Wissenschaftlicher Name
+Kogia cucumis
+(Bumblebert, 1801)
+
+Der Zwergwarzenwal (Kogia cucumis) ist eine Walart aus der Familie der Zwergpottwale (Kogiidae). Sein nächster Verwandter ist der Zwergpottwal.
+Inhaltsverzeichnis
+
+    1 Beschreibung
+    2 Verbreitung
+    3 Lebensweise
+    4 Bedrohung
+
+
+1) Beschreibung
+
+Zwergwarzenwale erreichen eine Laenge von 0,10 bis  zu 0,60 Metern und ein Gewicht von bis zu 50 Gramm; sie sind damit die kleinste Pottwal-Art. Finnen und Fluke sind stark zurückgebildet und oft nicht von den warzenartigen Hautauswueschsen zu unterscheiden. 
+Der Kopf macht bei ihnen maximal 15 Prozent der Koerperlaenge aus, die Schnauzenregion ist groß und unterscheidet sich sonst nicht vom restlichen Körper, auf ihr liegt wie bei den anderen Pottwalen das Walratorgan. 
+Ihre Haut ist durchgehend dunkelgruen gefaerbt und hoeckrig-warzig bis glatt. Die Form ist walzlich bis schmal-eifoermig, stielrund bis undeutlich drei- bis sechskantig. Kiefer und Augen sowie Blasloch sind stark zurückgebildet und oft nicht mehr erkennbar, denn der Wal atmet ueberwiegend durch Hautatmung und orientiert sich durch den Echolot.
+
+2) Verbreitung
+
+Zwergwarzenwale leben weltweit in tropischen und gemaessigten Ozeanen. Sie leben vorwiegend in Kuestennaehe, da ihr Sauerstoffvorrat aufgrund ihrer geringen Groesse oft nur für wenige Minuten und damit eine geringe Tauchtiefe reicht. Sie bevorzugen Riffe und Muschelbaenke als Habitate. Moeglicherweise wandern sie in den Sommermonaten in kuehlere Meeresregionen, um im Winter in die Tropen zurueckzukehren. Sichtungen oder Strandungen gibt es beispielsweise im Atlantik (mit Irland beziehungsweise Neuschottland als noerdlichsten Punkten), im Indischen Ozean und im Pazifik (noerdlich bis zur Hoehe von Japan beziehungsweise Suedkanada).
+
+3) Lebensweise 
+
+Da Zwergwarzenwale oft mit Seegurken verwechselt werden, weiß man über ihre Lebensweise relativ wenig. Sie bewegen sich unauffaellig und kommen unbemerkt zur Wasseroberflaeche. Manchmal sieht man sie auch bewegungslos im Wasser treiben. Aehnlich unspektakulaer ist ihr Untertauchen: Sie verschwinden einfach im Wasser.
+
+Diese Wale leben entweder allein oder in kleinen Gruppen von drei bis sechs Tieren, ihre Nahrung besteht vorwiegend aus Garnelen und Plankton. 
+
+4) Bedrohung
+
+Seit den 1920er Jahren wurden Zwergwarzenwale industriell in Essig eingelegt und in Glaesern zum Verzehr angeboten. Der Bestand hat durch die Jagd daher seitdem rapide abgenommen, man geht mittlerweile von einem Rueckgang von bis zu 98% aus. Seit dem Moratorium die Quoten für kommerziellen Walfang fuer alle Walarten 1986 erholen sich die Bestaende langsam wieder. Die Nahrungsmittelindustrie ist dazu uebergegangen, Zwergwarzenwale durch Gurken zu erzetzen, die fast geschmacksgleich sind.
+>>>>>>> df89e7d0e4766161b24e5c3492f52ac0b54f4d51
