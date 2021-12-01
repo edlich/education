@@ -28,3 +28,5 @@ Heat the oil in a pan. First, fry the onion (briefly) and add peppers, carrots a
 After this, take the beetroot out and rub them small on a large grater and add the grated or crushed garlic. The lemon half should be pressed from above the beetroot and this can be briefly stand on a plate. Then you take the meat out, separating it from the bones and cut it into small pieces. Then make up everything (beetroot, garlic, lemon juice and meat) back into the soup pot and stir it well. One can taste again and optionally seasoning with salt and pepper. Turn off the stove and serve it with sour cream (though it tastes even more delicious on the second day).
 
 recipe is from http://sometimeschef.com/2015/11/19/%d0%b1%d0%be%d1%80%d1%89-borscht/ (Denis Renning)
+
+(this line is added just for diff showcase)
