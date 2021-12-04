@@ -1,4 +1,5 @@
 Zutaten für das Rezept Weihnachtskuchen (Dr. Oetker)
+---- Studentin: Laura Pichlmeier 
 
 Für die Springform (Ø 26 cm):
 	Backpapier
