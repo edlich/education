@@ -1,3 +1,4 @@
+Ein ASCII-Adventskalender:
 ```
 +----+----+----+----+----+----+
 |    |    |    |    |    |    |
@@ -14,4 +15,4 @@
 +----+----+----+----+----+----+
 ```
 
-Programmieraufgaben, die nicht nur im Advent ausprobiert werden können: https://adventofcode.com/
+und ein Adventskalender mit Programmieraufgaben (die nicht nur im Advent ausprobiert werden können): https://adventofcode.com/
