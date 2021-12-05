@@ -1,5 +1,4 @@
 # Borrow-Checker
-=========
 Is a fairly new concept of memory usage which is a fundamental part of the Rust programming language. 
 It forces you to manage the ownership which allows you on the other side to make memory saftey guarantees without
 relying on a garbage collector.
