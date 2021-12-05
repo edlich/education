@@ -1,3 +1,4 @@
+```
 +----+----+----+----+----+----+
 |    |    |    |    |    |    |
 |   1|  17|  13|   5|  22|  11|
@@ -11,5 +12,6 @@
 |    |    |    |    |    |    |
 |   7|   3|  14|  19|  10|  24|
 +----+----+----+----+----+----+
+```
 
 Programmieraufgaben, die nicht nur im Advent ausprobiert werden können: https://adventofcode.com/
