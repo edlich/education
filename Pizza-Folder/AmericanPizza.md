@@ -10,7 +10,6 @@ Für 6 Portionen (2 Bleche)
 - 1 Schuss	Olivenöl
 - 880 ml	Milch,lauwarm
 
-
 ### Zubereitung
 
 1. Backofen gut vorheizen (250 Grad, sollte der Backofen mehr hergeben ruhig noch höher).
@@ -22,7 +21,6 @@ Den Teig zugedeckt ca. 30 Minuten gehen lassen.
 Wieder 30 Minuten zugedeckt gehen lassen.
 Der Teig hat eine eher feuchte, weiche Konsistenz (anders als "normaler" Pizzateig).
 
-
 4. Nun ein Backblech (oder, sofern vorhanden, runde Pizzableche) ordentlich mit Olivenöl (am besten mit den Fingern) einölen und den Teig darauf in Form ziehen. Nicht ausrollen, sondern einfach ziehen und etwa so dick wie der kleine Finger ist belassen.
 Einige Minuten auf dem Blech gehen lassen und dann die Pizzasauce auf den Teig geben.
 
@@ -31,3 +29,5 @@ Einige Minuten auf dem Blech gehen lassen und dann die Pizzasauce auf den Teig g
 6. Bei 250 Grad für 10 Minuten backen. Nach den 10 Minuten die Pizza nach Belieben belegen und mit Käse bestreuen (ich nehme bei dieser Teigmenge 400 g Käse - Gouda, Emmentaler oder Mozzarella, ganz nach Gusto).
 
 7. Weitere 10 Minuten backen und genießen.
+
+Guten Appetit!
