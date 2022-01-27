@@ -1,6 +1,6 @@
 # Sizilianischer Orangen-Fenchel-Salat
 
-
+<img src="https://github.com/alfredovitale/education/blob/master/Salate-Folder/fenchel-orangen-salat.jpeg"/>
 
 
 ## Zutaten für 2 Personen:
