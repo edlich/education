@@ -1,5 +1,6 @@
-Folgende Webkonferenzsysteme sind für die Nutzung in Moodle denkbar:
+Folgende Webkonferenzsysteme wurden in Moodle bereits erprobt:
 
 - Adobe Connect
 - BigBlueButton
 - YuLinc
+
