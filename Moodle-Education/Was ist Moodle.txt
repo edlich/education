@@ -1,0 +1,17 @@
+Moodle ist ein freies Kursmanagementsystem und eine Lernplattform. 
+Die Software bietet die Möglichkeiten zur Unterstützung kooperativer Lehr- und Lernmethoden.
+
+Voraussetzung für die Installation sind PHP und ein Datenbanksystem, z. B. MySQL oder PostgreSQL, aber auch Oracle, MS SQL oder andere 
+Systeme, die DBXML unterstützen. 
+
+Der Name Moodle war ursprünglich ein Akronym für Modular Object-Oriented Dynamic Learning Environment. 
+
+Moodle hat einen hohen Verbreitungsgrad, was die über 206.000 registrierten Installationen mit über 245 Millionen Nutzern in 
+32 Millionen Kursen in 251 Ländern und autonomen Gebieten zeigen, die auf der Projektseite erfasst wurden (Stand Dezember 2020).
+Hierbei handelt es sich sowohl um Unternehmen, öffentliche Bildungseinrichtungen wie Schulen und Universitäten als auch um private 
+Bildungsträger. Weltweit gibt es 105 autorisierte „Moodle-Partner-Unternehmen“, die Moodle professionell unterstützen, d. h., 
+sie finanzieren die kontinuierliche Pflege und Weiterentwicklung des Programms. Im November 2015 nahm die Moodle User Association (MUA) 
+ihre Arbeit auf. Sie verbindet Mitglieder und gibt ihnen eine Stimme zur Beeinflussung der Weiterentwicklung. 
+In jedem Major Release wird in der Regel ein von der MUA finanziertes Projekt implementiert.
+
+Quelle: https://de.wikipedia.org/wiki/Moodle

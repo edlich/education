@@ -1,0 +1,8 @@
+Folgende Webkonferenzsysteme wurden in Moodle bereits erprobt:
+
+- Adobe Connect
+- BigBlueButton
+- YuLinc
+
+Das positivste Feedback erhielt bisher das System BigBlueButton.
+Adobe Connect wird seit ca. einem Jahr kaum mehr genutzt.
