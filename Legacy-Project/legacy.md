@@ -6,6 +6,7 @@
 ![alt tag](img/legacy_setup.png)
 Quelle: <https://www.monkeyuser.com/2020/project-setup/>
 
+This test is to show how works or looks git diff :)
 
 ![alt tag](img/lagacy_2.jpeg)
 Quelle: <https://imgflip.com/i/4uyzqe>
