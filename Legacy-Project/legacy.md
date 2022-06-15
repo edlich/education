@@ -1,14 +1,11 @@
 ## Legacy Code - Meme
 
-![Alt Text](https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif)
-
-
-![alt tag](img/legacy_setup.png)
+![alt tag](img/legacy_setup.png) \
 Quelle: <https://www.monkeyuser.com/2020/project-setup/>
 
-This test is to show how works or looks git diff :)
+This test is to show how works or looks git diff :) \
 
-![alt tag](img/lagacy_2.jpeg)
+![alt tag](img/lagacy_2.jpeg) \
 Quelle: <https://imgflip.com/i/4uyzqe>
 
 
