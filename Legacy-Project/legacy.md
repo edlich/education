@@ -5,6 +5,8 @@ Quelle: <https://www.monkeyuser.com/2020/project-setup/>
 
 This test is to show how works or looks git diff :) \
 
+and here some text for mergin sample git branch into master on my git account :)
+
 ![alt tag](img/lagacy_2.jpeg) \
 Quelle: <https://imgflip.com/i/4uyzqe>
 
