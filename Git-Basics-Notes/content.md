@@ -92,3 +92,63 @@
 > ```css
 > git rm --cached README
 > ```
+
+### Branching und Repos: Tips und Tricks
+
+Arbeitet man in einem Team mit mehreren Mitgliedern zusammen sollte man sich im Vorhinein über mögliche Branching strategien austauschen. Im laufe der Zeit haben sich mehrere Branchingstrategien als nützlich erwiesen.
+
+
+#### Trunk Based Development
+Dies ist ein vereinfachtes Branchingmodell welches für kleiner Projekte sehr hilfreich sein kann. 
+Alle entwicklung findet ausgehend vom `master` branch statt. Soll ein neues Feature entwickelt werden so wird ein Featurebranch erstellt. Ist das feature Fertig erstellt, so wird der Feature request in den trunk gemerged. Am besten mittels eines Pullrequests der durch einen oder mehrere Teammitglieder begutachtet wird (Code Review). 
+
+Für die meisten klein Projekte ist dieses Vorgehen völlig aussreichend. 
+
+#### GitFlow (Master / Integration / Develop)
+
+Vorgeschlagen von [V. Driessen](https://nvie.com/posts/a-successful-git-branching-model/) ist das GitFlow Model eine etwas komplexere Branchingstrategie. Sie bietet sich für größere Teams oder Projekte an für die ein deterministisches Releaseverhalten wichtig ist.
+
+Hauptsächlich sind 3 langlebigere Branches definiert:
+- master: Beinhaltet die aktuell releaste Version
+- develop: Beinhaltet den aktuellen Entwicklungsstand
+- feature/X: Beinhaltet die Entwicklung des Feture X
+Darüber hinaus gibt es temporäre Branches
+- hotfix/Y: Beinhaltet einen Fix für Problem Y
+- realease/Z: Wird benutzt um ein Release der Version Z vorzubereiten
+
+Entwicklung findet prinzipiell in feature branches statt. Ist ein Feature Fertig entwickelt wird es zurück auf den `develop` gemerged. Sind alle nötigen Features für ein neues Release wird der develop in einen Release branch überführt.
+```
+git branch -b release/1.2.3-rc origin/develop
+git push
+```
+ Jetzt kann der Releasekandidat (RC) auf Herz und Nieren getestet werden. Finden sich noch fehler wird vom release branch ein fix erstellt und sowohl auf den aktuellen `develop` als auch den `release/1.2.3-rc` gemerged
+
+```
+git branch -b release/1.2.3-rc/fix1 release/1.2.3-rc 
+#... Hier findet Entwicklung statt ...
+git commit -m "Fixed Issue 0815"
+git push
+
+# Merge in RC
+git checkout release/1.2.3-rc 
+git merge release/1.2.3-rc/fix1
+git push
+
+# Merge in develop
+git checkout develop
+git merge release/1.2.3-rc/fix1
+git push
+```
+Wichtig ist hierbei das keine Neuentwicklung auf den RC branches stattfindet sondern wirklich nur Fixes für das aktuelle Release (feature creep)
+
+Ist das release soweit fertig, kann analog zum vorherigen schritt der RC branch auf den `master` gemerged werden. Der RC branch kann anschließend gelöscht werden.
+
+Findet man während der Entwicklung Fehler welche sofort behoben werden müssen und nicht bis zum nächsten Release warten können, so brancht man vom aktuellen `master` einen Hotfix branch ab z.B `hotfix/super-critical-bug` fixed das Problem dort und Cherry pickt diesen branch in alle zZ. Vorhandenen branches:
+```
+
+git checkout -b hotfix/super-critical-bug master
+git commit -m "Refilled Devs coffe" # hier $commithash mergen 
+# Für jeden $branch folgendes wiederholen
+git checkout $branch 
+git cherry-pick $commithash 
+```
