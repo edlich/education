@@ -18,3 +18,5 @@ Das Wasser, das Tahin sowie das Kichererbsenwasser in einen Mixer (oder Blender)
 Sobald die Kichererbsen hinzugegeben sind, das Ganze für weitere 1-2 Minuten mixen. Nun das Salz, den Zitronensaft sowie das Cumin beifügen und für weitere 1-2 Minuten mixen.
 
 Abschließend mit etwas Olivenöl servieren.
+
+Eine Zeile für Diff angefügt
