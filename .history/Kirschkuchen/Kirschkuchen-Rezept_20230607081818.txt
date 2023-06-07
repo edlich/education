@@ -3,7 +3,7 @@
 0.5	Pk	Backpulver
 4	Stk	Eier
 1	Prise	Salz
-500	g	Kirschen (entsteint, frisch) test test test
+500	g	Kirschen (entsteint, frisch)
 180	g	Staubzucker
 1	TL	Zitronenschale (gerieben)
 2	EL	Staubzucker zum Bestreuen
