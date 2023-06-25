@@ -1,11 +1,4 @@
-
-My first added comment on a pulled project!
-
-
-
-
-
-education
+# education
 =========
 
 A small repository for education purposes. Please do not flood it with unuseful info at toplevel!
@@ -27,3 +20,6 @@ Happy to receive your pull requests!
 
 ![Pull first, then push.](https://pbs.twimg.com/media/FRYvdabWUAEoEUS.jpg)
 
+## Contents:
+
+- [SWT - Useful Links: Refactoring Guru](/swt-useful-links/refactoring-guru.md)
