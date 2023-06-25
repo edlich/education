@@ -25,5 +25,5 @@ Let's say one file for each:
 
 Happy to receive your pull requests!
 
-![alt tag](https://www.itnetwork.cz/images/ftipy/585ad7fd3d0f2)
+![Pull first, then push.](https://www.itnetwork.cz/images/ftipy/585ad7fd3d0f2)
 
