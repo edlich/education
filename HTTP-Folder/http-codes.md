@@ -1,7 +1,7 @@
 ### Here is a quick Guide/Cheatsheet for any HTTP-Status code that exists
 
 This document is based on `https://http.cat/`. Please refer this external resource for further instructions.
-
+As an alternative `https://http.dog/`.
 ---
 
 #### Simple Guidelines
