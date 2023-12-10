@@ -1,7 +1,7 @@
 # API Ops: An Overview
 
 API Ops, or API Operations, is an approach in software development that focuses on the management and optimization of the API lifecycle. It shares similarities with DevOps but is specifically tailored for APIs.
-
+![alt tag](img/apiops.jpeg)
 ## Key Aspects of API Ops
 
 ### Lifecycle Management
@@ -33,3 +33,5 @@ API Ops, or API Operations, is an approach in software development that focuses 
 ## Conclusion
 
 API Ops is increasingly vital as businesses more heavily rely on APIs for digital strategies. This approach ensures APIs are efficient, secure, and aligned with business objectives.
+
+
