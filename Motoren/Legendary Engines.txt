@@ -1,0 +1,99 @@
+1. **Chevrolet Small-Block V8**
+   - Hersteller: Chevrolet
+   - Hubraum: Variiert (typischerweise zwischen 4.3L und 7.4L)
+   - Leistung: Bis zu 450 PS
+
+2. **BMW S70/2 V12**
+   - Hersteller: BMW
+   - Hubraum: 6.1L
+   - Leistung: Bis zu 627 PS
+
+3. **Ferrari F136 V8**
+   - Hersteller: Ferrari
+   - Hubraum: 4.3L - 6.3L (verschiedene Versionen)
+   - Leistung: Bis zu 730 PS
+
+4. **Porsche Mezger Flat-Six**
+   - Hersteller: Porsche
+   - Hubraum: Variiert (typischerweise zwischen 3.6L und 4.0L)
+   - Leistung: Bis zu 700 PS
+
+5. **Cummins 6BT Diesel**
+   - Hersteller: Cummins
+   - Hubraum: 5.9L
+   - Leistung: Bis zu 215 PS
+
+6. **Mercedes-AMG M156 V8**
+   - Hersteller: Mercedes-AMG
+   - Hubraum: 6.2L
+   - Leistung: Bis zu 622 PS
+
+7. **Caterpillar 3406E Diesel**
+   - Hersteller: Caterpillar
+   - Hubraum: 14.6L
+   - Leistung: Bis zu 600 PS
+
+8. **Toyota 2JZ-GTE**
+   - Hersteller: Toyota
+   - Hubraum: 3.0L
+   - Leistung: Bis zu 330 PS
+
+9. **Mitsubishi 4G63T**
+   - Hersteller: Mitsubishi
+   - Hubraum: 2.0L
+   - Leistung: Bis zu 300 PS
+
+10. **Audi 2.5 TFSI**
+    - Hersteller: Audi
+    - Hubraum: 2.5L
+    - Leistung: Bis zu 400 PS
+
+11. **Jaguar AJ-V8**
+    - Hersteller: Jaguar
+    - Hubraum: 3.0L - 5.0L (verschiedene Versionen)
+    - Leistung: Bis zu 575 PS
+
+12. **Honda B-Series**
+    - Hersteller: Honda
+    - Hubraum: Variiert (typischerweise zwischen 1.6L und 2.0L)
+    - Leistung: Bis zu 200 PS
+
+13. **Ford Modular V8**
+    - Hersteller: Ford
+    - Hubraum: Variiert (typischerweise zwischen 4.6L und 5.4L)
+    - Leistung: Bis zu 550 PS
+
+14. **Volvo Redblock**
+    - Hersteller: Volvo
+    - Hubraum: Variiert (typischerweise zwischen 2.0L und 2.5L)
+    - Leistung: Bis zu 250 PS
+
+15. **Chrysler Hemi V8**
+    - Hersteller: Chrysler
+    - Hubraum: Variiert (typischerweise zwischen 5.7L und 6.4L)
+    - Leistung: Bis zu 717 PS
+
+16. **John Deere PowerTech Diesel**
+    - Hersteller: John Deere
+    - Hubraum: Variiert (je nach Modell)
+    - Leistung: Bis zu 425 PS
+
+17. **MAN D38 Diesel**
+    - Hersteller: MAN
+    - Hubraum: 15.2L
+    - Leistung: Bis zu 640 PS
+
+18. **Detroit Diesel Series 60**
+    - Hersteller: Detroit Diesel
+    - Hubraum: 14.0L
+    - Leistung: Bis zu 665 PS
+
+19. **Isuzu 4HK1 Diesel**
+    - Hersteller: Isuzu
+    - Hubraum: 5.2L
+    - Leistung: Bis zu 215 PS
+
+20. **MAN 6-Zylinder Diesel**
+    - Hersteller: MAN
+    - Hubraum: 12.0L
+    - Leistung: Bis zu 517 PS
