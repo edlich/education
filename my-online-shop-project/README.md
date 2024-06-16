@@ -1,0 +1,1 @@
+# QualiStyles-onlineshop-java
