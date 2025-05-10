@@ -1,14 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Warum können Roboter keine Geheimnisse bewahren? Weil Sie ständig Debugging betreiben!
-=======
-Warum schreibt die KI Gedichte? Weil Sie denkt, das sei menschlich - LOL!
->>>>>>> witz-sarkastisch
-=======
 
 witz-optimistisch
 Warum können Roboter keine Geheimnisse bewahren? Weil Sie ständig Debugging betreiben!
 
 witz-sarkastisch
 Warum schreibt die KI Gedichte? Weil Sie denkt, das sei menschlich - LOL!
->>>>>>> fd5b91f6c720601446e083308420920a2a1e3702
