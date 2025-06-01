@@ -23,3 +23,5 @@ Happy to receive your pull requests!
 ## Contents:
 
 - [SWT - Useful Links: Refactoring Guru](/swt-useful-links/refactoring-guru.md)
+
+Danke für die hilfreichen Lektionen!
