@@ -1,0 +1,8 @@
+Ein nettes Video für Git-Anfänger:
+
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Dieses Video erklärt die Grundlagen von Git auf eine sehr eingängige Art und Weise.
+Besonders hilfreich für Studenten, die gerade mit Versionsverwaltung anfangen.
+
+Viel Spaß beim Lernen!
