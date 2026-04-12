@@ -5,6 +5,8 @@ A small repository for education purposes. Please do not flood it with unuseful 
 
 It mostly contains random content for Git and GitHub education.
 
+This repository is also helpful for beginners learning Git.
+
 To all `students`: 
 Let's create something unique here. A repository that contains hints 
 about the perfect education.
