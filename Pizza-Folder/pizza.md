@@ -18,3 +18,11 @@ Für 4 Portionen
 3. 1⁄2 Rezept Tomatensauce (siehe Rezept: Basis-Tomatensauce) zubereiten. 2 Kugeln Büffelmozzarella (à 125 g) abtropfen lassen und grob würfeln. 1 Teigkugel auf einer bemehlten Arbeitsfläche von innen nach außen zum dünnen Teigfladen (24 cm Ø) ausrollen. Mit 1⁄4 der Tomatensauce bestreichen, mit 1⁄4 des Mozzarellas bestreuen und auf Backpapier geben.
 
 4. Mithilfe des Backpapiers auf das heiße Blech ziehen. Im heißen Ofen im unteren Drittel 12-15 Min. backen. Von 1 Topf Basilikum die Blätter abzupfen, 1⁄4 davon auf die Pizza streuen, mit etwas Salz und Pfeffer würzen. Die übrigen Pizzen ebenso backen.
+
+# Eine einfachere Alternative
+
+1. Geh zu Pizza Hut
+
+2. Bestellen Sie eine Pizza
+
+3. Guten Appetit!
