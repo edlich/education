@@ -28,4 +28,5 @@ Happy to receive your pull requests!
 
 - Beitrag von Karl zur DVC-E1 Aufgabe:
 <img width="500" height="562" alt="image" src="https://github.com/user-attachments/assets/a5f779ea-6422-492d-8120-ba5c694c3099" />
+- Beitrag von Mohamad Yaman Nassif
 
