@@ -31,3 +31,4 @@ Happy to receive your pull requests!
 - Beitrag von Mohamad Yaman Nassif
 
 - Beitrag von Oxana (WINF online) zur Git-Übung: Alles überstanden!
+- Beitrag von Lana zur DVC-E1: Geschafft:)
