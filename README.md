@@ -37,4 +37,8 @@ Happy to receive your pull requests!
 - Beitrag von Jannis:
 - <img width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/4e6e1ad9-efd2-4c3e-83fa-368a79e84923" />
 
+* Beitrag von Mohamed Ali: Small README documentation update :)
+
+
+
 
