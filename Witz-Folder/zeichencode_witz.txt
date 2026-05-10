@@ -1,0 +1,5 @@
+Wie generiert man einen Zeichencode? 
+
+Man setzt mich (IT Newbie) vor einen vi-Editor und sagt, ich soll die Datei speichern und schließen.
+
+(ich vergesse nie wieder "-m")
