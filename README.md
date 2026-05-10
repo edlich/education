@@ -2,6 +2,7 @@
 =========
 
 A small repository for education purposes. Please do not flood it with unuseful info at toplevel!
+Please try to hide your content in folders or even try to clean up bloated things!
 
 It mostly contains random content for Git and GitHub education.
 
