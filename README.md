@@ -40,3 +40,4 @@ Happy to receive your pull requests!
 
 - Beitrag von Zaid DVC-E1
 
+This repository is also helpful for beginners learning Git.
